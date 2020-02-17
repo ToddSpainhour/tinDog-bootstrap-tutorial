@@ -52,6 +52,35 @@ body {
 
 } 
 
+
+/* features section  */
+
+.feature-titles {
+    font-weight: bold;
+}
+
+/* #features p {
+    text-align: center;
+} */
+
+#features {
+    margin: 7% 7%;
+}
+
+/* .feature-box {
+    text-align: center;
+} */
+
+/* #features i {
+    margin: 0%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+} */
+
+
+
     
     /* clip: rect(0px,0px,200px,0px); */
     /* width: 75%; */
